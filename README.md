@@ -9,7 +9,7 @@ The plugin works on a per voice basis and offers a selection of fonts supported 
 Copyright (C) 2023 yonah_ag
 
 This program is free software; you can redistribute it or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation and appearing in the LICENSE file.  
-See https://github.com/yonah-ag/musescore-recorder-fingering/blob/main/LICENSE
+See https://github.com/yonah-ag/musescore-tab-bold/blob/main/LICENSE
 
 ### Installation
 
