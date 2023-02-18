@@ -26,6 +26,7 @@ Select a range of measures, or use without selection to apply to all, then from 
   ![02](https://github.com/yonah-ag/musescore-tab-bold/blob/main/images/TabBold01.png)
   
  The offset fields can be used to nudge the bold text left, right, up and down and should be set before pressing Apply.  
+ 
  The fonts available are:
   
   ![03](https://github.com/yonah-ag/musescore-tab-bold/blob/main/images/TabBold02.png)
