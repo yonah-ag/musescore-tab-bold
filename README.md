@@ -14,7 +14,7 @@ See https://github.com/yonah-ag/musescore-tab-bold/blob/main/LICENSE
 
 _Note: This plugin requires version 3.x of MuseScore._
 
-1. Download TabBold.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
++ Download **TabBold.qml** then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
 
 ### Using the Plugin
 
