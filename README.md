@@ -19,8 +19,9 @@ _Note: This plugin requires version 3.x of MuseScore._
 ### Using the Plugin
 
 • Set the string spacing and font size to match the stave settings in the score.  
-• Select a font and select the voice to be made bold.  
+• Select a font face and select the voice to be made bold.  
 • Select a range of measures, or use without selection to apply to all, then press **Apply**.  
+• If the results need adjusting then press **Undo** and adjust the settings.
  
   ![02](https://github.com/yonah-ag/musescore-tab-bold/blob/main/images/TabBold01.png)
   
