@@ -1,4 +1,4 @@
-# MuseScore Bold Tab Plugin 1.0.0
+# MuseScore Bold Tab Plugin 1.1
 Plugin to display TAB fret numbers in a bold font, either to selected measures or to the whole score. The plugin works on a per voice basis and offers a selection of fonts which are supported by the musescore.com website player.
 
 ![01](https://github.com/yonah-ag/musescore-tab-bold/blob/main/images/TabBold.png)
@@ -9,6 +9,11 @@ Copyright (C) 2023 yonah_ag
 
 This program is free software; you can redistribute it or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation and appearing in the LICENSE file.  
 See https://github.com/yonah-ag/musescore-tab-bold/blob/main/LICENSE
+
+### Revision History
+
++ v1.0 | 18 Fev 2023 | Initial release
++ v1.0 | 09 Apr 2023 | Added support for small notes
 
 ### Installation
 
